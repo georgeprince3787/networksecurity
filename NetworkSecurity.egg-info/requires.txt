@@ -1,9 +1,7 @@
 python-dotenv
-pandas 
-numpy 
+pandas
+numpy
 setuptools
 typing
 pymongo
 certifi
-
--e .
