@@ -1,0 +1,2 @@
+[2026-08-17 02:30:21,278] 21 NetworkSecurity - INFO - Enter the try block
+[2026-08-17 02:30:21,560] 13 NetworkSecurity - ERROR - Exception: division by zero at C:\Users\gp298\OneDrive\Desktop\ALL CODES\NetworkSecurity\networksecurity\exception\exception.py:22
