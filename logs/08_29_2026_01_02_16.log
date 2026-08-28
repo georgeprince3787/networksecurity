@@ -1,0 +1,1 @@
+[2026-08-29 01:02:39,523] 13 NetworkSecurity - ERROR - Exception: module 'networksecurity.constant.training_pipeline' has no attribute 'DATA_INGESTION_TRAIN_TEST_SPLIT_RATIO' at C:\Users\gp298\OneDrive\Desktop\ALL CODES\NetworkSecurity\main.py:12

@@ -1,0 +1,1 @@
+[2026-08-28 19:47:38,280] 13 NetworkSecurity - ERROR - Exception: 'DataIngestion' object has no attribute 'initate_data_ingestion' at C:\Users\gp298\OneDrive\Desktop\ALL CODES\NetworkSecurity\main.py:16
